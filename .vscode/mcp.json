@@ -1,0 +1,16 @@
+{
+	"servers": {
+		"my-mcp-server-03d59272": {
+			"type": "stdio",
+			"command": "conda",
+			"args": [
+        "run",
+        "-n",
+        "mcp-dev",
+        "python",
+        "server.py"
+      ]
+		}
+	},
+	"inputs": []
+}
