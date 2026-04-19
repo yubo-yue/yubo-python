@@ -4,12 +4,12 @@
 			"type": "stdio",
 			"command": "conda",
 			"args": [
-        "run",
-        "-n",
-        "mcp-dev",
-        "python",
-        "server.py"
-      ]
+				"run",
+				"-n",
+				"mcp-dev",
+				"python",
+				"server.py"
+			]
 		}
 	},
 	"inputs": []
